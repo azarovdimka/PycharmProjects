@@ -1,1 +1,2 @@
-print((7 * 3)/2)
+car = 'Toyota RAV4'
+print(car)
